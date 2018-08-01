@@ -4,6 +4,8 @@ In this tutorial, you’ll learn about multiple managed object contexts by takin
 
 ![screenshot](https://koenig-media.raywenderlich.com/uploads/2017/10/surf_journal_screenshots-603x500.png)
 
+![screenshot](https://koenig-media.raywenderlich.com/uploads/2017/10/image7-2.png)
+
 ---
 
 Source:
